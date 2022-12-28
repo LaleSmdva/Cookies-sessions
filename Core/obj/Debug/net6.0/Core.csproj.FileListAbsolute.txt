@@ -1,0 +1,60 @@
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\bin\Debug\net6.0\Core.dll
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\Core.dll
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\User\Desktop\Sinif\BB101-19_12_2022\PrProject\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.dll
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.dll
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\ClassTime\Desktop\CRUD-2\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.dll
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.dll
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\User\Desktop\Updated,ASP.NET\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.dll
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.dll
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\User\Desktop\Copy of CRUD(errorlu sinif)\Sinif-ASP.NET-CRUD-\Core\obj\Debug\net6.0\ref\Core.dll

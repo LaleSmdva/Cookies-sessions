@@ -1,0 +1,66 @@
+﻿@model IEnumerable<SlideItem>
+@{
+	ViewData["Title"] = "Index";
+}
+<div class="main-panel">
+	<div class="content-wrapper">
+		<div class="row">
+			<div class="col-lg-12 grid-margin stretch-card">
+				<div class="card">
+					<div class="card-body">
+						<h4 class="card-title">Slide Items</h4>
+						<div class="table-responsive">
+							<table class="table table-striped">
+								<a class="btn btn-inverse-secondary" asp-action="Create">CREATE</a>
+								<thead>
+									<tr>
+										<th>
+											Photo
+										</th>
+										<th>
+											Offer
+										</th>
+										<th>
+											Title
+										</th>
+										<th>
+											Description
+										</th>
+									</tr>
+								</thead>
+								<tbody>
+									@foreach (var item in Model)
+									{
+											<tr>
+												<td class="py-1">
+													<img src="~/assets/images/website-images/@item.Photo" alt="image" />
+												</td>
+											<td>
+												@item.Offer
+											</td>
+												<td>
+												@item.Title
+												</td>
+												<td>
+												@item.Description
+												</td>
+												<td>
+													<a asp-action="details" asp-route-id="@item.Id" class="btn btn-primary"><i class="mdi mdi-account-multiple" style="cursor:pointer"></i>  Details</a>
+												<a asp-action="update" asp-route-id="@item.Id" class="btn btn-primary"><i class="mdi mdi-border-color"></i>Update</a>
+												<a asp-action="delete" asp-route-id="@item.Id" class="btn btn-primary"><i class="mdi mdi-delete"></i>Delete</a>
+												</td>
+
+											</tr>
+									}
+
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+

@@ -1,0 +1,18 @@
+﻿@model ShippingItem
+@{
+	ViewData["Title"] = "DeleteItem";
+}
+<div>
+		<div>
+	<h2>@Model.Title</h2><br />
+	<div><h2>@Model.Description</h2></div>
+	</div>
+</div>
+<form action="post" >
+	<button type="submit" class="btn btn-info" @*asp-action="Index"*@>Delete</button>
+
+	<span><a class="btn btn-info" @*asp-action="Index"*@>Go back</a></span>
+	<img src="~/admin/assets/images/auth/register-bg.jpg" height="200px" />
+</form>
+
+
